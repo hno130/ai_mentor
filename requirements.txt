@@ -1,0 +1,6 @@
+# The recovered code uses the pre-v1 OpenAI SDK interface.
+openai==0.28.1
+quart>=0.20,<0.24
+mysql-connector-python>=9,<10
+numpy>=1.26,<3
+python-dotenv>=1,<2

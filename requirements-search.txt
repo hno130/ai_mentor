@@ -1,0 +1,5 @@
+# Optional tooling only; installing these does NOT restore AllAgent.
+-r requirements.txt
+faiss-cpu
+sentence-transformers
+chardet
